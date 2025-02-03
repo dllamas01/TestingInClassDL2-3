@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 "Hello World" I chnaged the origin in main
+=======
+This is a branch change Branch 
+
+
+>>>>>>> Stashed changes
